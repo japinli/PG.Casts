@@ -217,5 +217,6 @@ FROM (
 
 ## 译者著
 
-* 本文翻译自 [PG Casts](https://www.pgcasts.com/) 的第一集 [Generating JSON from SQL](https://www.pgcasts.com/episodes/generating-json-from-sql)。
-* 本文实验结果基于 PostgreSQL 15devel ([92e7a53752](https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=92e7a537520927107742af654619e55f34072942))。
+[1] 本文翻译自 [PG Casts](https://www.pgcasts.com/) 的第一集 [Generating JSON from SQL](https://www.pgcasts.com/episodes/generating-json-from-sql)。
+
+[2] 本文实验结果基于 PostgreSQL 15devel ([92e7a53752](https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=92e7a537520927107742af654619e55f34072942))。
